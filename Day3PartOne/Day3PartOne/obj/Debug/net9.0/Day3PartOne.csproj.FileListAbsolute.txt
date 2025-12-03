@@ -1,0 +1,14 @@
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\bin\Debug\net9.0\Day3PartOne.exe
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\bin\Debug\net9.0\Day3PartOne.deps.json
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\bin\Debug\net9.0\Day3PartOne.runtimeconfig.json
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\bin\Debug\net9.0\Day3PartOne.dll
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\bin\Debug\net9.0\Day3PartOne.pdb
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\obj\Debug\net9.0\Day3PartOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\obj\Debug\net9.0\Day3PartOne.AssemblyInfoInputs.cache
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\obj\Debug\net9.0\Day3PartOne.AssemblyInfo.cs
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\obj\Debug\net9.0\Day3PartOne.csproj.CoreCompileInputs.cache
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\obj\Debug\net9.0\Day3PartOne.dll
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\obj\Debug\net9.0\refint\Day3PartOne.dll
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\obj\Debug\net9.0\Day3PartOne.pdb
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\obj\Debug\net9.0\Day3PartOne.genruntimeconfig.cache
+C:\learning\AdventOfCode202\Day3PartOne\Day3PartOne\obj\Debug\net9.0\ref\Day3PartOne.dll
